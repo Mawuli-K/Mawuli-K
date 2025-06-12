@@ -52,7 +52,7 @@ Repositories range from low-level hardware designs to high-level software implem
 ### 📫 Let's Connect!
 
 <div align="left">
-  <a href="mailto:your.kudowor19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="kudowor19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 ###
